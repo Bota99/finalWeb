@@ -1,0 +1,121 @@
+<div class="container">
+  <h3>Creating Title</h3>
+
+  <form [formGroup]="titleForm"
+        (ngSubmit)="onSubmit()">
+
+    <label>Cover</label>
+    <div class="Neon Neon-theme-dragdropbox">
+      <input style="z-index: 999; opacity: 0; width: 320px; height: 200px; position: absolute; right: 0px; left: 0px; margin-right: auto; margin-left: auto;"
+             formControlName="coverImg"
+             [ngClass]="{ 'is-invalid': submitted && f.coverImg.errors}"
+             class="form-control"
+             id="coverImg"
+             multiple="multiple"
+             type="file">
+      <div class="Neon-input-dragDrop">
+        <div class="Neon-input-inner">
+          <div class="Neon-input-icon"><i class="fa fa-file-image-o"></i></div>
+          <div class="Neon-input-text"><h3>Drag&amp;Drop files here</h3>
+            <span style="display:inline-block; margin: 15px 0">or</span></div>
+          <a class="Neon-input-choose-btn blue">Browse Files</a></div>
+      </div>
+    </div>
+
+    <label>Background</label>
+    <div class="Neon Neon-theme-dragdropbox">
+      <input style="z-index: 999; opacity: 0; width: 320px; height: 200px; position: absolute; right: 0px; left: 0px; margin-right: auto; margin-left: auto;"
+             formControlName="bgImg"
+             [ngClass]="{ 'is-invalid': submitted && f.bgImg.errors}"
+             class="form-control"
+             id="bgImg"
+             multiple="multiple"
+             type="file">
+      <div class="Neon-input-dragDrop">
+        <div class="Neon-input-inner">
+          <div class="Neon-input-icon"><i class="fa fa-file-image-o"></i></div>
+          <div class="Neon-input-text"><h3>Drag&amp;Drop files here</h3>
+            <span style="display:inline-block; margin: 15px 0">or</span></div>
+          <a class="Neon-input-choose-btn blue">Browse Files</a></div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="origTitle">Original title</label>
+      <input type="text"
+             formControlName="origTitle"
+             [ngClass]="{ 'is-invalid': submitted && f.origTitle.errors}"
+             class="form-control"
+             id="origTitle">
+    </div>
+
+    <div class="form-group">
+      <label for="engTitle">English title</label>
+      <input type="text"
+             formControlName="engTitle"
+             [ngClass]="{ 'is-invalid': submitted && f.engTitle.errors}"
+             class="form-control"
+             id="engTitle">
+    </div>
+
+    <div class="form-group">
+      <label for="type">Type</label>
+      <select id="type"
+              formControlName="type"
+              [ngClass]="{ 'is-invalid': submitted && f.type.errors}"
+              class="form-control">
+        <option value="Manga">Manga</option>
+        <option value="Manhwa">Manhwa</option>
+        <option value="Manhua">Manhua</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="author">Author</label>
+      <input type="text"
+             formControlName="author"
+             [ngClass]="{ 'is-invalid': submitted && f.author.errors}"
+             class="form-control"
+             id="author">
+    </div>
+
+    <div class="form-group">
+      <label for="artist">Artist</label>
+      <input type="text"
+             formControlName="artist"
+             [ngClass]="{ 'is-invalid': submitted && f.artist.errors}"
+             class="form-control"
+             id="artist">
+    </div>
+
+    <div class="form-group">
+      <label for="writer">Writer</label>
+      <input type="text"
+             formControlName="writer"
+             [ngClass]="{ 'is-invalid': submitted && f.writer.errors}"
+             class="form-control"
+             id="writer">
+
+    </div>
+
+    <div class="form-group">
+      <label for="desc">Description</label>
+      <br>
+      <textarea id="desc"
+                formControlName="desc"
+                [ngClass]="{ 'is-invalid': submitted && f.desc.errors}"
+                class="form-control"
+                rows="4"></textarea>
+    </div>
+
+    <button type="submit"
+            [disabled]="titleForm.invalid"
+            class="btn btn-primary"
+            (click)="save()">Add Title
+    </button>
+
+    <a routerLink=""
+       class="btn btn-link">Back</a>
+
+  </form>
+</div>

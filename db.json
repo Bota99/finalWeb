@@ -1,0 +1,488 @@
+{
+  "auth": [
+    {
+      "username": "danisimo",
+      "password": "asdasd",
+      "id": 1
+    },
+    {
+      "username": "bota",
+      "password": "asdasd",
+      "id": 2
+    }
+  ],
+  "titles": [
+    {
+      "coverImg": "../../../../assets/manga/Naruto.jpg",
+      "bgImg": "C:\\fakepath\\15.jpg",
+      "origTitle": "Naruto",
+      "engTitle": "Naruto",
+      "type": "manga",
+      "author": "Masasi Kishimoto",
+      "artist": "Masasi Kishimoto",
+      "writer": "Masasi Kishimoto",
+      "desc": "The best manga of all time!",
+      "id": 1
+    },
+    {
+      "coverImg": "../../../../assets/manga/MobPsycho.jpg",
+      "bgImg": "C:\\fakepath\\28.jpg",
+      "origTitle": "Mob psycho 100",
+      "engTitle": "Mob psycho 100",
+      "type": "manga",
+      "author": "One",
+      "artist": "One",
+      "writer": "One",
+      "desc": "Cool manga",
+      "id": 2
+    },
+    {
+      "coverImg": "../../../../assets/manga/FairyTail.jpg",
+      "bgImg": "C:\\fakepath\\32.jpg",
+      "origTitle": "Fairy tail",
+      "engTitle": "Fairy tail",
+      "type": "manga",
+      "author": "Hiro Masima",
+      "artist": "Hiro Masima",
+      "writer": "Hiro Masima",
+      "desc": "Some description",
+      "id": 3
+    },
+    {
+      "coverImg": "../../../../assets/manga/Boruto.jpg",
+      "bgImg": "C:\\fakepath\\16.jpg",
+      "origTitle": "Boruto",
+      "engTitle": "Boruto",
+      "type": "manga",
+      "author": "Masasi Kishimoto",
+      "artist": "Masasi Kishimoto",
+      "writer": "Masasi Kishimoto",
+      "desc": "Masasi Kishimoto",
+      "id": 4
+    },
+    {
+      "coverImg": "../../../../assets/manga/ToraDora.jpg",
+      "bgImg": "C:\\fakepath\\6.jpg",
+      "origTitle": "Tora Dora",
+      "engTitle": "Tora Dora",
+      "type": "manga",
+      "author": "Yuyuko Takemiya",
+      "artist": "Yuyuko Takemiya",
+      "writer": "Yuyuko Takemiya",
+      "desc": "Tora Dora",
+      "id": 5
+    },
+    {
+      "coverImg": "../../../../assets/manga/OnePunchMan.jpg",
+      "bgImg": "C:\\fakepath\\6.jpg",
+      "origTitle": "One Punch Man",
+      "engTitle": "One Punch Man",
+      "type": "manga",
+      "author": "ONE",
+      "artist": "Yusuke Murata",
+      "writer": "ONE",
+      "desc": "One Punch Man",
+      "id": 6
+    },
+    {
+      "coverImg": "../../../../assets/manga/thePromisedNeverland.jpg",
+      "bgImg": "C:\\fakepath\\6.jpg",
+      "origTitle": "The Promised Neverland",
+      "engTitle": "The Promised Neverland",
+      "type": "manga",
+      "author": "Kaiu Shirai",
+      "artist": "Posuka Demizu",
+      "writer": "Kaiu Shirai",
+      "desc": "The Promised Neverland",
+      "id": 7
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/queenWithAScalpel.jpg",
+      "bgImg": "C:\\fakepath\\queenWithAScalpel.jpg",
+      "origTitle": "Doctor Elise",
+      "engTitle": "Queen with a scalpel",
+      "type": "manhwa",
+      "author": "yuin",
+      "artist": "﻿mini",
+      "writer": "Kuaikan Manhua NHN Entertainment",
+      "desc": "В первой жизни она была ужасной королевой, навлёкшей на страну беды и сожжённой своим же королём на костре. Во второй - стала талантливым хирургом, искупающим свою вину за прошлое, спасая людей. Но из-за авиакатастрофы талантливый хирург Сон Чжи Хён вернулась в свою первую жизнь! В этот раз она решила всё изменить, став врачом.",
+      "id": 8
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/youAtTheFirstSight.jpg",
+      "bgImg": "C:\\fakepath\\youAtTheFirstSight.jpg",
+      "origTitle": "Sonyeo Yechan",
+      "engTitle": "You At First Sigh",
+      "type": "manhwa",
+      "author": "Ischae",
+      "artist": "Ischae",
+      "writer": "Olleh",
+      "desc": "С самого детства Е Чон видела вместо лиц людей их мысли, из-за чего всегда испытывала проблемы с общением. Со временем дошло до того, что она стала изгоем. Но однажды в супермаркете она встречает парня, чьё лицо видит ясно, а вот его мысли не видит совсем…",
+      "id": 9
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/WhiteBlood.jpg",
+      "bgImg": "C:\\fakepath\\WhiteBlood.jpg",
+      "origTitle": "Hwaiteu Beulleodeu",
+      "engTitle": "White Blood",
+      "type": "manhwa",
+      "author": "Lim Li Na (임리나)",
+      "artist": "Lim Li Na (임리나)",
+      "writer": "Naver",
+      "desc": "Корею поглотил хаос. Уже как десять лет вампиры терроризируют мирных граждан, а правительство бессильно. Пак Хаян (имя означает \"белый\") - 20-летняя студентка колледжа, желающая просто иметь друзей и проводить свои дни, как самый обычный человек, хоть и является вампиром. Все меняется, когда Хаян обнаруживают и на нее открывают охоту как люди, так и её сородичи.",
+      "id": 10
+    },
+    {
+      "coverImg": "../../../../assets/manhua/productionOfaGoddess.jpg",
+      "bgImg": "C:\\fakepath\\productionOfaGoddess.jpg",
+      "origTitle": "Nüshen zhizao xitong",
+      "engTitle": "Production of a goddess",
+      "type": "manhua",
+      "author": "DAZUI",
+      "artist": "DAZUI",
+      "writer": "AC.QQ (Tencent)",
+      "desc": "Описание\nДевушка-отаку Сяси совершила самоубийство после того, как парень из игры разоблачил ее истинную личность. Только вот вместо того чтобы умереть, она переместилась во времени в игру с кучей симпатичных парней. Приготовьтесь увидеть превращение отаку в прекрасную богиню!",
+      "id": 11
+    },
+    {
+      "coverImg": "../../../../assets/manhua/aPerfectHusbandAndIorHowSteal55kisses.jpg",
+      "bgImg": "C:\\fakepath\\aPerfectHusbandAndIorHowSteal55kisses.jpg",
+      "origTitle": "Guomin Laogong Dai Huijia",
+      "engTitle": "A perfect husband and I, or how steal 55 kisses",
+      "type": "Manhua",
+      "author": "Ye Feiye",
+      "artist": "San Fu Studios",
+      "writer": "San Fu Studios",
+      "desc": "\"Нельзя домогаться меня\", \"нельзя публично говорить, что я твоя жена\", \"нельзя, чтобы все знали, что мы живем вместе\". Лу Цзинь Нянь и Аньхао из-за родителей вынуждены пожениться. Аньхао считает их брак полной катастрофой, и поэтому в первую брачную ночь выставляет 3 запрета… Cherry Manga",
+      "id": 12
+    },
+    {
+      "coverImg": "../../../../assets/manga/AkameGaKill.jpg",
+      "bgImg": "C:\\fakepath\\AkameGaKill.jpg",
+      "origTitle": "Akame ga Kiru!",
+      "engTitle": "Akame ga KILL!",
+      "type": "Manga",
+      "author": "Takahiro",
+      "artist": "TASHIRO Tetsuya",
+      "writer": "Square Enix Yen Press",
+      "desc": "Простой деревенский парень отправился в столицу, чтобы прославиться. Но что то пошло не так: его не взяли в армию, обокрали, а милая девушка, приютившая его, оказывается матерым убийцей в юбке, убившая его друзей. Но не все еще потеряно. Ему посчастливилось встретить членов группы ассасинов \"Ночной Рейд\". После этого дела пошли в гору.",
+      "id": 13
+    },
+    {
+      "coverImg": "../../../../assets/manga/ClassPresidentIsaMaid.jpg",
+      "bgImg": "C:\\fakepath\\ClassPresidentIsaMaid.jpg",
+      "origTitle": "Kaichou wa Maid-sama!",
+      "engTitle": "Class President is a Maid!",
+      "type": "Manga",
+      "author": "FUJIWARA Hiro",
+      "artist": "FUJIWARA Hiro",
+      "writer": "Hakusensha Comics Factory",
+      "desc": "Аюдзава Мисаки - она президент совета академии Сэйка, и она кошмар для парней! И она ненавидит парней. После академии Мисаки подрабатывает в кафе, где официантки носят форму горничных. И однажды, тирана президента застукали на месте работы Усуи Такуми, ученик той же школы... Узнает ли секрет строгого президента вся школа?",
+      "id": 14
+    },
+    {
+      "coverImg": "../../../../assets/manhua/starMartialGodTechnique.jpg",
+      "bgImg": "C:\\fakepath\\starMartialGodTechnique.jpg",
+      "origTitle": "Xing Wu Shen Jue",
+      "engTitle": "Star Martial God Technique",
+      "type": "Manhua",
+      "author": "Mad Snail",
+      "artist": "Mad Snail",
+      "writer": "AC.QQ (Tencent) MangaToon U17",
+      "desc": "С давних времён боевые искусства менялись и развивались. К сожалению, со временем их видов становилось всё меньше, пока не осталось лишь три: Дракона, Пламени и Звезды. Однако и Боевому искусству Звезды тоже грозит исчезновение: мастеров всё меньше, обучать «звёздных» некому. Е Синхэ – 17-летний ученик академии «Небесной звезды». Как и многие другие ребята, он обучается здесь боевым искусствам.  Что ждёт обычного слугу дома «Тёмной Луны»? Сможет ли он пробиться наверх?",
+      "id": 15
+    },
+    {
+      "coverImg": "../../../../assets/manga/8.png",
+      "bgImg": "C:\\fakepath\\11.jpg",
+      "origTitle": "jojo",
+      "engTitle": "jojo",
+      "type": "Manga",
+      "author": "araki",
+      "artist": "araki",
+      "writer": "araki",
+      "desc": "jojo",
+      "id": 16
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/Yaongyi_-_True_Beauty_vol._1_(2020,_Young_Com)_book_cover.jpg",
+      "bgImg": "C:\\fakepath\\Yaongyi_-_True_Beauty_vol._1_(2020,_Young_Com)_book_cover.jpg",
+      "origTitle": "TrueBeauty",
+      "engTitle": "TrueBeauty",
+      "type": "Manhwa",
+      "author": "bb",
+      "artist": "bb",
+      "writer": "bb",
+      "desc": "truebeauty",
+      "id": 17
+    },
+    {
+      "coverImg": "../../../../assets/manga/Bleach.jpg",
+      "bgImg": "C:\\fakepath\\Bleach.jpg",
+      "origTitle": "Bleach",
+      "engTitle": "Bleach",
+      "type": "Manga",
+      "author": "Taito Kubo",
+      "artist": "Taito Kubo",
+      "writer": "bb",
+      "desc": "bleach",
+      "id": 18
+    }
+  ],
+  "manga": [
+    {
+      "coverImg": "../../../../assets/manga/Naruto.jpg",
+      "bgImg": "C:\\fakepath\\15.jpg",
+      "origTitle": "Naruto",
+      "engTitle": "Naruto",
+      "type": "manga",
+      "author": "Masasi Kishimoto",
+      "artist": "Masasi Kishimoto",
+      "writer": "Masasi Kishimoto",
+      "desc": "The best manga of all time!",
+      "id": 1
+    },
+    {
+      "coverImg": "../../../../assets/manga/MobPsycho.jpg",
+      "bgImg": "C:\\fakepath\\28.jpg",
+      "origTitle": "Mob psycho 100",
+      "engTitle": "Mob psycho 100",
+      "type": "manga",
+      "author": "One",
+      "artist": "One",
+      "writer": "One",
+      "desc": "Cool manga",
+      "id": 2
+    },
+    {
+      "coverImg": "../../../../assets/manga/FairyTail.jpg",
+      "bgImg": "C:\\fakepath\\32.jpg",
+      "origTitle": "Fairy tail",
+      "engTitle": "Fairy tail",
+      "type": "manga",
+      "author": "Hiro Masima",
+      "artist": "Hiro Masima",
+      "writer": "Hiro Masima",
+      "desc": "Some description",
+      "id": 3
+    },
+    {
+      "coverImg": "../../../../assets/manga/Boruto.jpg",
+      "bgImg": "C:\\fakepath\\16.jpg",
+      "origTitle": "Boruto",
+      "engTitle": "Boruto",
+      "type": "manga",
+      "author": "Masasi Kishimoto",
+      "artist": "Masasi Kishimoto",
+      "writer": "Masasi Kishimoto",
+      "desc": "Masasi Kishimoto",
+      "id": 4
+    },
+    {
+      "coverImg": "../../../../assets/manga/ToraDora.jpg",
+      "bgImg": "C:\\fakepath\\6.jpg",
+      "origTitle": "Tora Dora",
+      "engTitle": "Tora Dora",
+      "type": "manga",
+      "author": "Yuyuko Takemiya",
+      "artist": "Yuyuko Takemiya",
+      "writer": "Yuyuko Takemiya",
+      "desc": "Tora Dora",
+      "id": 5
+    },
+    {
+      "coverImg": "../../../../assets/manga/OnePunchMan.jpg",
+      "bgImg": "C:\\fakepath\\6.jpg",
+      "origTitle": "One Punch Man",
+      "engTitle": "One Punch Man",
+      "type": "manga",
+      "author": "ONE",
+      "artist": "Yusuke Murata",
+      "writer": "ONE",
+      "desc": "One Punch Man",
+      "id": 6
+    },
+    {
+      "coverImg": "../../../../assets/manga/thePromisedNeverland.jpg",
+      "bgImg": "C:\\fakepath\\6.jpg",
+      "origTitle": "The Promised Neverland",
+      "engTitle": "The Promised Neverland",
+      "type": "manga",
+      "author": "Kaiu Shirai",
+      "artist": "Posuka Demizu",
+      "writer": "Kaiu Shirai",
+      "desc": "The Promised Neverland",
+      "id": 7
+    },
+    {
+      "coverImg": "../../../../assets/manga/AkameGaKill.jpg",
+      "bgImg": "C:\\fakepath\\AkameGaKill.jpg",
+      "origTitle": "Akame ga Kiru!",
+      "engTitle": "Akame ga KILL!",
+      "type": "Manga",
+      "author": "Takahiro",
+      "artist": "TASHIRO Tetsuya",
+      "writer": "Square Enix Yen Press",
+      "desc": "Простой деревенский парень отправился в столицу, чтобы прославиться. Но что то пошло не так: его не взяли в армию, обокрали, а милая девушка, приютившая его, оказывается матерым убийцей в юбке, убившая его друзей. Но не все еще потеряно. Ему посчастливилось встретить членов группы ассасинов \"Ночной Рейд\". После этого дела пошли в гору.",
+      "id": 13
+    },
+    {
+      "coverImg": "../../../../assets/manga/ClassPresidentIsaMaid.jpg",
+      "bgImg": "C:\\fakepath\\ClassPresidentIsaMaid.jpg",
+      "origTitle": "Kaichou wa Maid-sama!",
+      "engTitle": "Class President is a Maid!",
+      "type": "Manga",
+      "author": "FUJIWARA Hiro",
+      "artist": "FUJIWARA Hiro",
+      "writer": "Hakusensha Comics Factory",
+      "desc": "Аюдзава Мисаки - она президент совета академии Сэйка, и она кошмар для парней! И она ненавидит парней. После академии Мисаки подрабатывает в кафе, где официантки носят форму горничных. И однажды, тирана президента застукали на месте работы Усуи Такуми, ученик той же школы... Узнает ли секрет строгого президента вся школа?",
+      "id": 8
+    },
+    {
+      "coverImg": "../../../../assets/manga/8.png",
+      "bgImg": "C:\\fakepath\\11.jpg",
+      "origTitle": "jojo",
+      "engTitle": "jojo",
+      "type": "Manga",
+      "author": "araki",
+      "artist": "araki",
+      "writer": "araki",
+      "desc": "jojo",
+      "id": 14
+    },
+    {
+      "coverImg": "../../../../assets/manga/Bleach.jpg",
+      "bgImg": "C:\\fakepath\\Bleach.jpg",
+      "origTitle": "Bleach",
+      "engTitle": "Bleach",
+      "type": "Manga",
+      "author": "Taito Kubo",
+      "artist": "Taito Kubo",
+      "writer": "bb",
+      "desc": "bleach",
+      "id": 15
+    }
+  ],
+  "manhwa": [
+    {
+      "coverImg": "../../../../assets/manhwa/queenWithAScalpel.jpg",
+      "bgImg": "C:\\fakepath\\queenWithAScalpel.jpg",
+      "origTitle": "Doctor Elise",
+      "engTitle": "Queen with a scalpel",
+      "type": "manhwa",
+      "author": "yuin",
+      "artist": "﻿mini",
+      "writer": "Kuaikan Manhua NHN Entertainment",
+      "desc": "В первой жизни она была ужасной королевой, навлёкшей на страну беды и сожжённой своим же королём на костре. Во второй - стала талантливым хирургом, искупающим свою вину за прошлое, спасая людей. Но из-за авиакатастрофы талантливый хирург Сон Чжи Хён вернулась в свою первую жизнь! В этот раз она решила всё изменить, став врачом.",
+      "id": 8
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/youAtTheFirstSight.jpg",
+      "bgImg": "C:\\fakepath\\youAtTheFirstSight.jpg",
+      "origTitle": "Sonyeo Yechan",
+      "engTitle": "You At First Sigh",
+      "type": "manhwa",
+      "author": "Ischae",
+      "artist": "Ischae",
+      "writer": "Olleh",
+      "desc": "С самого детства Е Чон видела вместо лиц людей их мысли, из-за чего всегда испытывала проблемы с общением. Со временем дошло до того, что она стала изгоем. Но однажды в супермаркете она встречает парня, чьё лицо видит ясно, а вот его мысли не видит совсем…",
+      "id": 9
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/WhiteBlood.jpg",
+      "bgImg": "C:\\fakepath\\WhiteBlood.jpg",
+      "origTitle": "Hwaiteu Beulleodeu",
+      "engTitle": "White Blood",
+      "type": "manhwa",
+      "author": "Lim Li Na (임리나)",
+      "artist": "Lim Li Na (임리나)",
+      "writer": "Naver",
+      "desc": "Корею поглотил хаос. Уже как десять лет вампиры терроризируют мирных граждан, а правительство бессильно. Пак Хаян (имя означает \"белый\") - 20-летняя студентка колледжа, желающая просто иметь друзей и проводить свои дни, как самый обычный человек, хоть и является вампиром. Все меняется, когда Хаян обнаруживают и на нее открывают охоту как люди, так и её сородичи.",
+      "id": 10
+    },
+    {
+      "coverImg": "../../../../assets/manhwa/Yaongyi_-_True_Beauty_vol._1_(2020,_Young_Com)_book_cover.jpg",
+      "bgImg": "C:\\fakepath\\Yaongyi_-_True_Beauty_vol._1_(2020,_Young_Com)_book_cover.jpg",
+      "origTitle": "TrueBeauty",
+      "engTitle": "TrueBeauty",
+      "type": "Manhwa",
+      "author": "bb",
+      "artist": "bb",
+      "writer": "bb",
+      "desc": "truebeauty",
+      "id": 11
+    }
+  ],
+  "manhua": [
+    {
+      "coverImg": "../../../../assets/manhua/productionOfaGoddess.jpg",
+      "bgImg": "C:\\fakepath\\productionOfaGoddess.jpg",
+      "origTitle": "Nüshen zhizao xitong",
+      "engTitle": "Production of a goddess",
+      "type": "manhua",
+      "author": "DAZUI",
+      "artist": "DAZUI",
+      "writer": "AC.QQ (Tencent)",
+      "desc": "Описание\nДевушка-отаку Сяси совершила самоубийство после того, как парень из игры разоблачил ее истинную личность. Только вот вместо того чтобы умереть, она переместилась во времени в игру с кучей симпатичных парней. Приготовьтесь увидеть превращение отаку в прекрасную богиню!",
+      "id": 11
+    },
+    {
+      "coverImg": "../../../../assets/manhua/aPerfectHusbandAndIorHowSteal55kisses.jpg",
+      "bgImg": "C:\\fakepath\\aPerfectHusbandAndIorHowSteal55kisses.jpg",
+      "origTitle": "Guomin Laogong Dai Huijia",
+      "engTitle": "A perfect husband and I, or how steal 55 kisses",
+      "type": "Manhua",
+      "author": "Ye Feiye",
+      "artist": "San Fu Studios",
+      "writer": "San Fu Studios",
+      "desc": "\"Нельзя домогаться меня\", \"нельзя публично говорить, что я твоя жена\", \"нельзя, чтобы все знали, что мы живем вместе\". Лу Цзинь Нянь и Аньхао из-за родителей вынуждены пожениться. Аньхао считает их брак полной катастрофой, и поэтому в первую брачную ночь выставляет 3 запрета… Cherry Manga",
+      "id": 12
+    },
+    {
+      "coverImg": "../../../../assets/manhua/starMartialGodTechnique.jpg",
+      "bgImg": "C:\\fakepath\\starMartialGodTechnique.jpg",
+      "origTitle": "Xing Wu Shen Jue",
+      "engTitle": "Star Martial God Technique",
+      "type": "Manhua",
+      "author": "Mad Snail",
+      "artist": "Mad Snail",
+      "writer": "AC.QQ (Tencent) MangaToon U17",
+      "desc": "С давних времён боевые искусства менялись и развивались. К сожалению, со временем их видов становилось всё меньше, пока не осталось лишь три: Дракона, Пламени и Звезды. Однако и Боевому искусству Звезды тоже грозит исчезновение: мастеров всё меньше, обучать «звёздных» некому. Е Синхэ – 17-летний ученик академии «Небесной звезды». Как и многие другие ребята, он обучается здесь боевым искусствам.  Что ждёт обычного слугу дома «Тёмной Луны»? Сможет ли он пробиться наверх?",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Naruto",
+      "lastName": "Uzumaki",
+      "username": "Naruto",
+      "email": "ramenEater@gmail.kh",
+      "password": "asdasd",
+      "id": 1
+    },
+    {
+      "firstName": "Жаркимбаева",
+      "lastName": "Дана",
+      "username": "asdf",
+      "email": "danchick006@gmail.com",
+      "password": "asdasd",
+      "id": 2
+    },
+    {
+      "firstName": "Жаркимбаева",
+      "lastName": "Дана",
+      "username": "danisimo",
+      "email": "danchick006@gmail.com",
+      "password": "asdasd",
+      "id": 3
+    },
+    {
+      "firstName": "bota",
+      "lastName": "bota",
+      "username": "bota",
+      "email": "danchick006@gmail.com",
+      "password": "asdasd",
+      "id": 4
+    }
+  ]
+}
